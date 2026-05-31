@@ -38,7 +38,9 @@
 
 ## 📊 GitHub Stats
 
-![M-Ali007's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Ali007&show_icons=true&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=M-Ali007&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=M-Ali007&theme=gitdimmed&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
