@@ -1,7 +1,7 @@
 # Hey, I'm M-Ali 👋
 
-> High school student building at the intersection of cybersecurity, game dev & web.  
-> Currently maining Arch Linux (CachyOS). Always shipping.
+> High school student learning of cybersecurity, game dev & web.  
+> Using Arch Linux (CachyOS) btw.
 
 ---
 
