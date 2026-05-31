@@ -1,4 +1,4 @@
-# Hey, I'm M-Ali 👋
+# Hey, I'm Mustafa Ali 👋
 
 > High school student learning of cybersecurity, game dev & web.  
 > Using Arch Linux (CachyOS) btw.
