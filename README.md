@@ -1,7 +1,9 @@
 # Hey, I'm Mustafa Ali 👋
 
-> High school student learning of cybersecurity, game dev & web.  
+> High school student learning cybersecurity, game dev & web.  
 > Using Arch Linux (CachyOS) btw.
+
+<br>
 
 ---
 
@@ -15,6 +17,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
+<br>
+
 ---
 
 ## 🚀 Projects
@@ -24,24 +28,32 @@
 | [Flappy-Bird](https://github.com/M-Ali007/Flappy-Bird) | Recreation of the classic game built from scratch | Python |
 | [Text-Editor](https://github.com/M-Ali007/Text-Editor) | Lightweight terminal-based text editor | Python |
 | [Battleship](https://github.com/M-Ali007/Battle-Ship) 🚧 | Fully playable Battleship clone — still cookin' | Python / Java |
-| [Mustapad](https://github.com/M-Ali007/Mustapad)  | Custom hardware keypad design & circuit schematics | Hardware |
+| [Mustapad](https://github.com/M-Ali007/Mustapad) | Custom hardware keypad design & circuit schematics | Hardware |
+
+<br>
 
 ---
 
-## 🏅 Certifications
+## 🏅 Badges
 
 <!--START_SECTION:badges-->
 [![Web Design & Development - High School Competitor](https://images.credly.com/size/80x80/images/98caa5b8-864a-4e24-b45b-04a0e650b145/blob)](https://www.credly.com/badges/31ec97fa-2d9c-4abf-b55d-2e985e985dd9)
 <!--END_SECTION:badges-->
+
+<br>
 
 ---
 
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=M-Ali007&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
- 
+
+<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=M-Ali007&theme=gitdimmed&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 
 ---
 
-> 📍 Open to scholarships & opportunities, always down to collaborate!
+> 📍 Open to scholarships & opportunities — always down to collaborate!
