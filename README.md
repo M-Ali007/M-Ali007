@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey, I'm M-Ali 👋
 
-<!--
-**M-Ali007/M-Ali007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> High school student building at the intersection of cybersecurity, game dev & web.  
+> Currently maining Arch Linux (CachyOS). Always shipping.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [Flappy-Bird](https://github.com/M-Ali007/Flappy-Bird) | Recreation of the classic game built from scratch | Python |
+| [Text-Editor](https://github.com/M-Ali007/Text-Editor) | Lightweight terminal-based text editor | Python |
+| [Battleship](https://github.com/M-Ali007/Battle-Ship) 🚧 | Fully playable Battleship clone — still cookin' | Python / Java |
+| [Mustapad](https://github.com/M-Ali007/Mustapad)  | Custom hardware keypad design & circuit schematics | Hardware |
+
+---
+
+## 🏅 Certifications
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+---
+
+## 📊 GitHub Stats
+
+![M-Ali007's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Ali007&show_icons=true&theme=github_dark&hide_border=true)
+
+---
+
+> 📍 Open to scholarships & opportunities — always down to collaborate!
