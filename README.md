@@ -32,6 +32,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=M-Ali007&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
+<img align="center" width=100% src="https://github-readme-stats-tan-five-90.vercel.app/api username=M-Ali007&show_icons=true&theme=github-dark&border_radius=8&icon_color=df648c&text_color=718096&hide_title=true&hide_border=true"/>
+<img align="center" width=100% src="https://streak-stats.demolab.com/?user=M-Ali007&theme=github-dark&hide_border=true" alt="M-Ali007" />
+<img align="center" width=100% src="https://github-readme-stats-tan-five-90.vercel.app/api/top-langs/?&username=M-Ali007&theme=github-dark&layout=compact&hide_border=true&icon_color=FFB3B3" />
+
 <br>
 
 ---
