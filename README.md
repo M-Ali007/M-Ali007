@@ -18,20 +18,6 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
 <br>
-
----
-
-## 🚀 Projects
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| [Flappy-Bird](https://github.com/M-Ali007/Flappy-Bird) | Recreation of the classic game built from scratch | Python |
-| [Text-Editor](https://github.com/M-Ali007/Text-Editor) | Lightweight terminal-based text editor | Python |
-| [Battleship](https://github.com/M-Ali007/Battle-Ship) 🚧 | Fully playable Battleship clone — still cookin' | Python / Java |
-| [Mustapad](https://github.com/M-Ali007/Mustapad) | Custom hardware keypad design & circuit schematics | Hardware |
-
-<br>
-
 ---
 
 ## 🏅 Badges
