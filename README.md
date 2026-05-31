@@ -31,6 +31,7 @@
 ## 🏅 Certifications
 
 <!--START_SECTION:badges-->
+
 <!--END_SECTION:badges-->
 
 ---
@@ -41,4 +42,4 @@
 
 ---
 
-> 📍 Open to scholarships & opportunities — always down to collaborate!
+> 📍 Open to scholarships & opportunities, always down to collaborate!
