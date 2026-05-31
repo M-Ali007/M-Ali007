@@ -13,5 +13,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: mustafa.murta08@gmail.com   # replace with your Credly username
+          CREDLY_USER: mustafa-ali.6f151524  # replace with your Credly username
           NUMBER_LAST_BADGES: 0               # 0 = show ALL badges
