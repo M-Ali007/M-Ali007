@@ -3,8 +3,6 @@
 > High school student learning cybersecurity, game & web dev.  
 > Using Arch Linux (CachyOS) btw.
 
-<br>
-
 ---
 
 ## 🛠️ Languages & Tools
