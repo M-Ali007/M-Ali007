@@ -1,4 +1,4 @@
-# Hey, I'm Mustafa Ali 👋
+# Hey, I'm Mustafa Ali 
 
 > High school student learning cybersecurity, game & web dev.  
 > Using Arch Linux (CachyOS) btw.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🏅 Badges
+## Badges
 
 <!--START_SECTION:badges-->
 [![Web Design & Development - High School Competitor](https://images.credly.com/size/130x130/images/98caa5b8-864a-4e24-b45b-04a0e650b145/blob)](https://www.credly.com/badges/31ec97fa-2d9c-4abf-b55d-2e985e985dd9)
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=M-Ali007&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 <br>
