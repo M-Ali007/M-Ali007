@@ -21,7 +21,7 @@
 ## Badges
 
 <!--START_SECTION:badges-->
-[![Web Design & Development - High School Competitor](https://images.credly.com/size/130x130/images/98caa5b8-864a-4e24-b45b-04a0e650b145/blob)](https://www.credly.com/badges/31ec97fa-2d9c-4abf-b55d-2e985e985dd9)
+[![Web Design & Development - High School Competitor](https://images.credly.com/size/80x80/images/98caa5b8-864a-4e24-b45b-04a0e650b145/blob)](https://www.credly.com/badges/31ec97fa-2d9c-4abf-b55d-2e985e985dd9)
 <!--END_SECTION:badges-->
 
 <br>
